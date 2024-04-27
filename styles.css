@@ -39,18 +39,19 @@
 }
 
 .column-1,
-.column-10,
-.column-11,
-.column-12,
 .column-2,
 .column-3,
 .column-4,
 .column-5,
 .column-7,
 .column-8,
-.column-9 {
+.column-9,
+.column-10,
+.column-11,
+.column-12 {
 	float: left;
-	padding: 15px
+	padding: 15px;
+	background-color: orange;
 }
 
 .effectTab-header .title::after,
